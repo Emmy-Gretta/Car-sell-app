@@ -1,0 +1,8 @@
+.form{
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  border: 1px solid #ccc;
+  margin: 5px;
+  padding: 15px;
+}
