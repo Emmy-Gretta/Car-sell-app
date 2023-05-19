@@ -1,0 +1,50 @@
+body{
+   font-family: "Jost";
+   background: url(./images/car.jpg) fixed  100%;
+}
+
+::-webkit-scrollbar{
+   font-size: 0;
+   height: 0;
+   width: 0;
+}
+
+.container h1 {
+   font-size: 25px;
+   text-align: center;
+   font-weight: bold;
+}
+
+.range{
+   width: 100%;
+}
+
+.label{
+   font-weight: 500;
+}
+
+.container{
+   border: 1px solid;
+   width: 450px;
+   margin: 20px;
+   background-color: white;
+}
+
+.error{
+   color: red;
+   background: white;
+   height: 50px;
+   border: 2px solid #333;
+   border-radius: 5px;
+   padding: 10px;
+}
+
+.btn{
+   margin-bottom: 10px;
+   margin-left: 150px;
+}
+
+legend{
+   color: black;
+   font-weight: bold;
+}
